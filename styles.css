@@ -78,7 +78,7 @@
     display: flex;
     justify-content: space-between;
     padding: 50px;
-    background-color: #e2df3fc1;
+    background-color:white;
     }
     
     .stat-box h2 {
@@ -90,7 +90,7 @@
     .services {
     text-align: center;
     padding: 50px;
-    background-color: #ffffff91;
+    background-color:light grey;
     }
     
     .services h2 {
