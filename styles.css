@@ -78,7 +78,7 @@
     display: flex;
     justify-content: space-between;
     padding: 50px;
-    background-color:white;
+    background-color:#edede5a1;
     }
     
     .stat-box h2 {
@@ -90,7 +90,7 @@
     .services {
     text-align: center;
     padding: 50px;
-    background-color:light grey;
+    background-color:#859e8b48;
     }
     
     .services h2 {
@@ -115,7 +115,7 @@
     
     .service-card .icon {
     font-size: 2rem;
-    color: #255367;
+    color:#132f3b;
     }
     
     /* Doctors Section */
@@ -132,7 +132,7 @@
     
     .doctor-card {
     width: 22%;
-    background-color: #0fac97ce;
+    background-color: ##3e4d4bce;
     padding: 20px;
     text-align: center;
     }
@@ -176,8 +176,8 @@
     
     /* Footer Section */
     footer {
-    background-color: #333;
-    color: white;
+    background-color: #8591ae2f;
+    color:rgb(30, 32, 69);
     padding: 50px;
     }
     
