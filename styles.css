@@ -106,7 +106,7 @@
     text-align: center;
     width: 22%;
     padding: 20px;
-    background-color: #14171448;
+    background-color: #ccccd8df;
     }
     
     .service-card h3 {
@@ -132,7 +132,7 @@
     
     .doctor-card {
     width: 22%;
-    background-color: ##3e4d4bce;
+    background-color:#3e4d4bce;
     padding: 20px;
     text-align: center;
     }
